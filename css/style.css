@@ -410,6 +410,11 @@ nav ul li a:hover {
     grid-template-columns: repeat(2, minmax(150px, 1fr));
   }
 }
+@media (max-width: 768px) {
+  .facts-grid {
+    grid-template-columns: repeat(1, minmax(150px, 1fr));
+  }
+}
 
 
 /* Responsive Styles end */
