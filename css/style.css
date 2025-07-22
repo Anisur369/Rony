@@ -24,6 +24,7 @@ footer {
   margin: auto;
 }
 
+/* Global Styles start */
 * {
   margin: 0;
   padding: 0;
@@ -35,6 +36,7 @@ body {
   font-family: var(--font-family);
   background-color: var(--bg-white);
 }
+/* Global Styles end */
 
 /* Header Styles start */
 header {
@@ -439,6 +441,4 @@ nav ul li a:hover {
     padding: 0 10px;
   }
 }
-
-
 /* Responsive Styles end */
